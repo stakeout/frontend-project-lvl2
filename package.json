@@ -1,0 +1,39 @@
+{
+  "name": "diff-calculator",
+  "version": "1.0.0",
+  "description": "Hexlet project #2",
+  "keywords": [
+    "node.js",
+    "npm",
+    "babel",
+    "eslint",
+    "travis",
+    "git",
+    "asciinema",
+    "es6",
+    "bash"
+  ],
+  "main": "",
+  "bin": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stakeout/frontend-project-lvl2.git"
+  },
+  "author": "Vadim Novash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stakeout/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/stakeout/frontend-project-lvl2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/node": "^7.7.0",
+    "@babel/preset-env": "^7.7.1",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
