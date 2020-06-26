@@ -1,6 +1,6 @@
 {
   "name": "diff-calculator",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Hexlet project #2",
   "keywords": [
     "node.js",
@@ -11,10 +11,13 @@
     "git",
     "asciinema",
     "es6",
-    "bash"
+    "bash",
+    "cli"
   ],
   "main": "",
-  "bin": {},
+  "bin": {
+    "gendiff": "src/bin/gendiff.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stakeout/frontend-project-lvl2.git"
