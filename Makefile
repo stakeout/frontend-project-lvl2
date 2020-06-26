@@ -5,7 +5,7 @@ lint:
 	npx eslint .
 
 start:
-	src/bin/gendiff.js -h
+	npx babel-node src/bin/gendiff.js -h
 
 publish:
 	npm publish --dry-run
